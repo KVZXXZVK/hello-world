@@ -1,3 +1,9 @@
 # hello-world
-ble ble ble
-bla bla car
+#include <iostream>
+  
+using namespace std;
+int main();
+{
+cout<<ble ble ble<<endl;
+cout<<bla bla car<<end;
+}
