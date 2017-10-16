@@ -6,4 +6,6 @@ int main();
 {
 cout<<ble ble ble<<endl;
 cout<<bla bla car<<end;
+
+return 0;
 }
